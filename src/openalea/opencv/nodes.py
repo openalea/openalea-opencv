@@ -21,8 +21,6 @@ __docformat__ = "restructuredtext en"
 
 import cv2
 import numpy
-
-
 # ==============================================================================
 # Core
 

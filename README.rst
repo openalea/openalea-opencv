@@ -29,15 +29,17 @@ Installation
 Requirements
 ------------
 
-* OpenCV 2.4
-* OpenAlea.deploy (https://github.com/openalea/deploy)
-* OpenAlea.sconsx (https://github.com/openalea/sconsx)
-* OpenAlea.openalea (https://github.com/openalea/openalea)
-* OpenAlea.OpenAlea (https://github.com/openalea/openalea-components)
+* cv2
 * numpy
 
-Utilisation
------------
+* OpenAlea/Deploy (https://github.com/openalea/deploy)
+* OpenAlea/Sconsx (https://github.com/openalea/sconsx)
+* OpenAlea/OpenAlea (https://github.com/openalea/openalea)
+* OpenAlea/OpenAlea-components (https://github.com/openalea/openalea-components)
+
+
+Command
+-------
 
     python setup.py develop
 

@@ -1,4 +1,4 @@
-openAlea.opencv
+openalea.opencv
 ***************
 
 Authors
@@ -39,9 +39,7 @@ Requirements
 Utilisation
 -----------
 
-<code>
-python setup.py develop
-</code>
+    python setup.py develop
 
 Documentation
 =============

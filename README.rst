@@ -33,7 +33,6 @@ Requirements
 * numpy
 
 * OpenAlea/Deploy (https://github.com/openalea/deploy)
-* OpenAlea/Sconsx (https://github.com/openalea/sconsx)
 * OpenAlea/OpenAlea (https://github.com/openalea/openalea)
 * OpenAlea/OpenAlea-components (https://github.com/openalea/openalea-components)
 
